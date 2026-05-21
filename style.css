@@ -1,1 +1,7 @@
 /* Aquí se asigna un backgroun-color al body de #232323 y color: #fff */
+body {
+    
+    background-color: #232323; 
+ 
+    color: #fff; 
+}
