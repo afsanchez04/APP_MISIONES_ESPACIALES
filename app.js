@@ -1,0 +1,1 @@
+/* Aquí va un console.log("Hola mundo") */
